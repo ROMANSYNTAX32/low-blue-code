@@ -1,0 +1,21 @@
+{
+  "name": "blue-code",
+  "displayName": "blue-code",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Low Blue Code (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-theme.json"
+      }
+    ]
+  }
+}
