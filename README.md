@@ -4,7 +4,7 @@
 
 ## Previews
 
-![Dark Blue](https:://github.com/ROMANSYNTAX32/low-blue-code/preview/dark-blue.png)
+![Dark Blue](https://github.com/ROMANSYNTAX32/low-blue-code/blob/master/preview/dark.png?raw=true)
 
 ## Credits
 
