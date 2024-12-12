@@ -1,16 +1,16 @@
-# blue-code README
+# Low Blue Code
 
-## Working with Markdown
+*Smooth and desaturated dark blue theme for vscode.*
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Previews
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![Dark Blue](https:://github.com/ROMANSYNTAX32/low-blue-code/preview/dark-blue.png)
 
-## For more information
+## Credits
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+** ['Extension Repository'](https://github.com/ROMANSYNTAX32/low-blue-code)
+** ['rmsyntax:GitHub'](https://github.com/ROMANSYNTAX32)
+** ['rmsyntax:Website'](https://rmsyntax.com)
 
-**Enjoy!**
+*author*: **Moonie Wentz**
+*email*: **rmsyntaxcontact@gmail.com**
