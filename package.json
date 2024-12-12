@@ -2,6 +2,12 @@
   "name": "blue-code",
   "displayName": "blue-code",
   "description": "",
+  "author": {
+    "name": "rmsyntax"
+  },
+  "repository": {
+    "url": "https://github.com/ROMANSYNTAX32/low-blue-code.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
